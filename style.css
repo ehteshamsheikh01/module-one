@@ -1,0 +1,32 @@
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+}
+*{
+    background-color: #502350;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon{
+    font-size:20px ;
+    color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.button{
+    display: flex;
+    justify-content: end;
+}
+.sign-in{
+    color: black;
+
+border-radius: 20px;
+padding: 7px;
+margin: 7px;
+}
+.button-order{
+    padding: 10px;
+margin: 10px;
+}
+
